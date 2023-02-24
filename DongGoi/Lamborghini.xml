@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\Software application\PRO1041-DUAN1-UDPM\ASM\DongGoi\Lamborghini.jar</jar>
+  <outfile>E:\Software application\PRO1041-DUAN1-UDPM\ASM\DongGoi\Lamborghini.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>E:\Software application\PRO1041-DUAN1-UDPM\ASM\DongGoi\icon\lamborghini.ico</icon>
+  <classPath>
+    <mainClass>main.Main</mainClass>
+    <cp>lib/TimingFramework-0.55.jar</cp>
+    <cp>lib/commons-codec-1.13.jar</cp>
+    <cp>lib/mssql-jdbc-9.4.0.jre8.jar</cp>
+    <cp>lib/swingx-1.6.1.jar</cp>
+    <cp>lib/datechooser.jar</cp>
+    <cp>images/*</cp>
+  </classPath>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0_45</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0</txtFileVersion>
+    <fileDescription>Lamborghini</fileDescription>
+    <copyright>Lamborghini</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0</txtProductVersion>
+    <productName>Lamborghini</productName>
+    <companyName>Lamborghini</companyName>
+    <internalName>Lamborghini</internalName>
+    <originalFilename>Lamborghini.exe</originalFilename>
+    <trademarks>Lamborghini</trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
